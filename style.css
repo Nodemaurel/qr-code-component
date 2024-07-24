@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+body{
+	background-color: hsl(212, 45%, 89%);
+	display: flex;
+	font-family: "Outfit", sans-serif;
+}
+
+.container{
+	height: 480px;
+	width: 300px;
+	background-color: #fff;
+	margin: 135px auto;
+	border-radius: 15px;
+	padding: 10px;
+}
+
+img{
+	height: 63%;
+	width: 100%;
+	border-radius: 15px;
+	margin-bottom: 5px;
+}
+
+
+.note1{
+	padding: 10px 0;
+	font-weight: 700;
+	font-size: 22px;
+	text-align: center;
+	color: hsl(218, 44%, 22%);
+}
+
+.note2{
+	padding: 10px;
+	font-size: 15px;
+	text-align: center;
+	color: hsl(220, 15%, 55%);
+	font-weight: 400;
+}
